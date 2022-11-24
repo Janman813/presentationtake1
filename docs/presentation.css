@@ -15,6 +15,7 @@ h2{
 .topnav{
   overflow: visible;
   background-color: #333;
+  text-align: right;
 }
 
 .topnav a {
